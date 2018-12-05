@@ -13,7 +13,7 @@ welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)](CO
 
 [Tensor2Tensor](https://github.com/tensorflow/tensor2tensor), or
 [T2T](https://github.com/tensorflow/tensor2tensor) for short, is a library
-of deep learning models and datasets designed to make deep learning more
+of deep okv  learning models and datasets designed to make deep learning more
 accessible and [accelerate ML
 research](https://research.googleblog.com/2017/06/accelerating-deep-learning-research.html).
 T2T is actively used and maintained by researchers and engineers within the
